@@ -1,0 +1,7 @@
+Stock Portfolio Tracker
+=======================
+AAPL | Quantity: 2 | Investment: $360.00
+TSLA | Quantity: 3 | Investment: $750.00
+GOOGL | Quantity: 4 | Investment: $600.00
+
+Total Investment: $1710.00
